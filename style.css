@@ -68,7 +68,7 @@
         margin: 0;
     }
     /* Business Logo */
-    logo {
+    .logo {
         cursor: pointer;
         margin-right: auto;
     }
